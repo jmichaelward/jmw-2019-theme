@@ -9,9 +9,7 @@
             "email": "jeremy@jmichaelward.com"
         }
     ],
-    "require": {
-        "wpackagist-plugin/advanced-custom-fields": "^5.7"
-    },
+    "require": {},
     "repositories": [
         {
             "type": "composer",
