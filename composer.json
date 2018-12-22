@@ -1,0 +1,21 @@
+{
+    "name": "jmichaelward/jmw-2019-theme",
+    "description": "The 2019 theme for jmichaelward.com.",
+    "type": "wordpress-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeremy Ward",
+            "email": "jeremy@jmichaelward.com"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/advanced-custom-fields": "^5.7"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ]
+}
