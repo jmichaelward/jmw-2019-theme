@@ -1,0 +1,32 @@
+{
+  "name": "jmw-2019-theme",
+  "version": "1.0.0",
+  "description": "A 2019 theme for jmichaelward.com",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.4.3",
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-sass": "^4.0.2",
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmichaelward/jmw-2019-theme.git"
+  },
+  "keywords": [
+    "WordPress",
+    "Theme"
+  ],
+  "author": "J. Michael Ward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmichaelward/jmw-2019-theme/issues"
+  },
+  "homepage": "https://github.com/jmichaelward/jmw-2019-theme#readme"
+}
